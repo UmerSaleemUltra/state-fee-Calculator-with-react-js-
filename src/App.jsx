@@ -34,7 +34,7 @@ const styles = {
     marginTop: '16px',
     width: '100%',
     padding: '12px',
-    backgroundColor: '#3b82f6',
+    backgroundColor: '#ea2024',
     color: '#fff',
     borderRadius: '8px',
     fontSize: '16px',
